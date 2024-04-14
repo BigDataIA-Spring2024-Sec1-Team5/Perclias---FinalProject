@@ -26,4 +26,7 @@ Perclias sounds like an innovative and promising project! Leveraging conversatio
 9.Apache Airflow
 10. Pinecone
 11. AWS
+    
+## Architecture Workflow
+![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.png)
 

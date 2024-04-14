@@ -4,7 +4,7 @@
 
 ## Overview
 
-Perclias sounds like an innovative and promising project! Leveraging conversational AI to assist patients and healthcare professionals can greatly enhance the efficiency and effectiveness of healthcare delivery. By analyzing patient-doctor conversations and utilizing data-driven approaches, Perclias can provide personalized healthcare solutions, diagnosis, and treatment recommendations tailored to individual needs. This could significantly improve patient outcomes and streamline the healthcare process.
+Perclias is an innovative and promising project! Leveraging conversational AI to assist patients and healthcare professionals can greatly enhance the efficiency and effectiveness of healthcare delivery. By analyzing patient-doctor conversations and utilizing data-driven approaches, Perclias can provide personalized healthcare solutions, diagnosis, and treatment recommendations tailored to individual needs. This could significantly improve patient outcomes and streamline the healthcare process.
 
 ## Problem statement
 ● Inefficient Information Management: Manual capture and organization of patient-doctor conversations can be time-consuming and prone to errors, leading to inefficiencies in healthcare delivery.
@@ -23,7 +23,7 @@ Perclias sounds like an innovative and promising project! Leveraging conversatio
 6. Gemini Vision Pro
 7. Beautiful Soup + Selenium 
 8. Snowflake
-9.Apache Airflow
+9. Apache Airflow
 10. Pinecone
 11. AWS
     

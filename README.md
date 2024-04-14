@@ -24,6 +24,6 @@ Perclias sounds like an innovative and promising project! Leveraging conversatio
 7. Beautiful Soup + Selenium 
 8. Snowflake
 9.Apache Airflow
-10.Pinecone
-11.AWS
+10. Pinecone
+11. AWS
 

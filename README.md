@@ -63,6 +63,19 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 ## Architecture Workflow
 ![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.png)
 
+```mermaid
+graph TD
+    A[Voice Recording and Transcription] -->|Transcribed Conversation| B[Conversation Summarization]
+    B --> |Summary| C[Symptom Identification and Analysis]
+    C --> |Further Diagnosis Needed| D[Image Analysis ]
+    C --> |Diagnosis and History| E[Knowledge Base Integration]
+    E --> |Knowledge Base| F[Recommendation Generation]
+    F --> |Recommendations| G[User Interface]
+    G --> |Store Data| H[Data Storage and Management]
+    H -->  I[Continuous Improvement]
+    I --> E
+```
+
 ## Team Information and Contribution 
 
 Name | Contribution %| Contributions |

@@ -7,7 +7,7 @@ Perclias is basically AI for doctors! Leveraging conversational AI to assist pat
 
 Youtube Video URL: 
 
-App link (hosted on Google Cloud):
+App link (hosted on Google Cloud): http://35.227.43.169:8501/
 
 ## Live application Links
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)]( https://codelabs-preview.appspot.com/?file_id=1pi7QseL9IrVMDiInLdGWVaC9McmrILCVLP_ml_icGlI#0)

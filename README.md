@@ -139,4 +139,4 @@ Name | Contribution %| Contributions |
 --- |--- | --- |
 Aditya Kanala | 33.33% |OpenAI, Pinecone & Deployment|
 Shikhar Patel | 33.33% | Streamlit, LLMs Integration & Snowflake|
-Shubh Patel | 33.33% | Scraping, Data Validation & Airflow|
+Shubh Patel | 33.33% | Scraping, Data Validation, Airflow & Snowflake|

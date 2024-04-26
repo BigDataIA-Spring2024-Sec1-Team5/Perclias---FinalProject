@@ -59,6 +59,8 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 9. Apache Airflow
 10. Pinecone
 11. AWS
+12. Langchain
+13. Firebase
     
 ## Architecture Workflow
 ![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.jpg)

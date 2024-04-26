@@ -71,7 +71,7 @@ Perclias is basically AI for doctors! Leveraging conversational AI to assist pat
 📦 FinalProject
 ├─ ReadMe
 ├─ Documentation
-|─ ETL
+├─ ETL
 │  ├─ main.py
 │  ├─ requirements.txt
 |  ├─ scraping.py
@@ -89,8 +89,9 @@ Perclias is basically AI for doctors! Leveraging conversational AI to assist pat
 |  ├─ Patient_Management_1_UI.png
 |  ├─ Patient_Management_UI.png
 │  └─ Perclias_AI_UI.png
-|   -Streamlit
-└─ Snowflake
+|  
+|
+├─ Snowflake
 |   ├─ Patient_data.sql
 |
 ├─ Streamlit
@@ -114,7 +115,7 @@ Perclias is basically AI for doctors! Leveraging conversational AI to assist pat
 |   ├─requirements.txt
 |   └─ Medical_Image.json
 | 
-|- Validations
+├─ Validations
     ├─pytest.py
     ├─validation.py
 ```

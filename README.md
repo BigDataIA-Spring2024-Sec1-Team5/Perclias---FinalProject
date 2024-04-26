@@ -17,11 +17,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-fa722a?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)
 [![Pinecone](https://img.shields.io/badge/Pinecone-FFD43B?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://openai.com/)
-[![Snowflake](https://img.shields.io/badge/Snowflake-1c1c1c?style=for-the-badge&logo=snowflake&logoColor=blue)](https://snowflake.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-15317E?style=for-the-badge&logo=snowflake&logoColor=blue)](https://snowflake.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-fa722a?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.com/)
 [![Langchain](https://img.shields.io/badge/Langchain-7FFFD4?style=for-the-badge&logo=langchain&logoColor=green)](https://langchain.com/)
 [![Airflow](https://img.shields.io/badge/Airflow-fa722a?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
-[![Gemini](https://img.shields.io/badge/Gemini-7FFFD4?style=for-the-badge&logo=gemini&logoColor=white)](https://gemini.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-15317E?style=for-the-badge&logo=gemini&logoColor=white)](https://gemini.com/)
 [![AWS S3](https://img.shields.io/badge/AWSS3-39e75f?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
 
 

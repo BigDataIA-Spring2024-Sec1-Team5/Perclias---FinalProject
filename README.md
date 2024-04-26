@@ -1,13 +1,18 @@
 # FinalProject
+## Overview
 
+Perclias is basically AI for doctors! Leveraging conversational AI to assist patients and healthcare professionals can greatly enhance the efficiency and effectiveness of healthcare delivery. By analyzing patient-doctor conversations and utilizing data-driven approaches, Perclias can provide personalized healthcare solutions, diagnosis, and treatment recommendations tailored to individual needs. This could significantly improve patient outcomes and streamline the healthcare process.
 
+## Project Resources
+
+Youtube Video URL: 
+
+App link (hosted on Google Cloud): http://35.227.43.169:8501/
 
 ## Live application Links
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)]( https://codelabs-preview.appspot.com/?file_id=1pi7QseL9IrVMDiInLdGWVaC9McmrILCVLP_ml_icGlI#0)
-[![workflow_architecture](https://img.shields.io/badge/workflow_architecture-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/15hzHqTEWEA3mODdOzBBs7hKNeoz7Bj7d#scrollTo=yO3GCFVqjeoF)
-[![knowledge_summaries](https://img.shields.io/badge/knowledge_summaries-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1z_bdJxOZ216nw997gTckQT6ZLWcJr4jP?usp=sharing)
-[![Generate_Q&A](https://img.shields.io/badge/Generate_Q&A-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1fSoI3f0jRflBNtc3EdGbU76-oyPbj3-A?usp=sharing)
-[![Similarity_Search](https://img.shields.io/badge/Similarity_Search-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1fSoI3f0jRflBNtc3EdGbU76-oyPbj3-A?usp=sharing)
+[![pinecone_embedding](https://img.shields.io/badge/pinecone_embedding-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1zNPAPfZoUxywZH596tRpLtqkBbYDApAD?usp=sharing)
+[![rag](https://img.shields.io/badge/rag-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1o0-wgq4ntYocZpPJ9WDMA6KAF0zYZB0Y?usp=sharing)
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,9 +40,7 @@
 
 
 
-## Overview
 
-Perclias is an innovative and promising project! Leveraging conversational AI to assist patients and healthcare professionals can greatly enhance the efficiency and effectiveness of healthcare delivery. By analyzing patient-doctor conversations and utilizing data-driven approaches, Perclias can provide personalized healthcare solutions, diagnosis, and treatment recommendations tailored to individual needs. This could significantly improve patient outcomes and streamline the healthcare process.
 
 ## Problem statement
 ● Inefficient Information Management: Manual capture and organization of patient-doctor conversations can be time-consuming and prone to errors, leading to inefficiencies in healthcare delivery.
@@ -50,7 +53,7 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 
 1. Streamlit
 2. WhisperAI
-3. FastAPI
+3. GCP 
 4. OpenAI
 5. S3
 6. Gemini Vision Pro
@@ -59,10 +62,66 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 9. Apache Airflow
 10. Pinecone
 11. AWS
+12. Langchain
+13. Firebase
     
 ## Architecture Workflow
-![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.png)
+![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.jpg)
 
+## Project Structure
+
+```
+📦 FinalProject
+├─ ReadMe
+├─ Documentation
+├─ ETL
+│  ├─ main.py
+│  ├─ requirements.txt
+|  ├─ scraping.py
+|  ├─ snowflake_load.py
+│  └─ validation.py
+├─ Images
+│  ├─ About_Us_UI.png
+│  ├─ Final_Architecture.jpg
+│  ├─ Login_Page_UI.png
+|  ├─ Logout_UI.png
+|  ├─ Medical_Image_Analysis_UI.png
+|  ├─ Medication_Recommendation_UI.png
+|  ├─ Part-1.png
+|  ├─ Part-2.png
+|  ├─ Patient_Management_1_UI.png
+|  ├─ Patient_Management_UI.png
+│  └─ Perclias_AI_UI.png
+|  
+|
+├─ Snowflake
+|   ├─ Patient_data.sql
+|
+├─ Streamlit
+|   |
+|   ├─ About_Us.json
+|   ├─ Dockerfile
+|   ├─Medication.json
+|   ├─about.py
+|   ├─app1.py
+|   ├─app2.py
+|   ├─app3.py
+|   ├─ doc.json
+|   ├─docker-compose.yml
+|   ├─head_logo.json
+|   ├─login.json
+|   ├─login.py
+|   ├─logo.jpg
+|   ├─logo.json
+|   ├─main.py
+|   ├─patient.py
+|   ├─requirements.txt
+|   └─ Medical_Image.json
+| 
+├─ Validations
+    ├─pytest.py
+    ├─validation.py
+```
 ## Flow Chart
 ```mermaid
 graph TD
@@ -83,4 +142,4 @@ Name | Contribution %| Contributions |
 --- |--- | --- |
 Aditya Kanala | 33.33% |OpenAI, Pinecone & Deployment|
 Shikhar Patel | 33.33% | Streamlit, LLMs Integration & Snowflake|
-Shubh Patel | 33.33% | Scraping, Data Validation & Airflow|
+Shubh Patel | 33.33% | Scraping, Data Validation, Airflow & Snowflake|

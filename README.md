@@ -63,6 +63,7 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 ## Architecture Workflow
 ![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.png)
 
+## Flow Chart
 ```mermaid
 graph TD
     A[Voice Recording and Transcription] -->|Transcribed Conversation| B[Conversation Summarization]

@@ -5,7 +5,7 @@ Perclias is basically AI for doctors! Leveraging conversational AI to assist pat
 
 ## Project Resources
 
-Youtube Video URL: 
+Youtube Video URL: https://youtu.be/apNswfYcxi8
 
 App link (hosted on Google Cloud): http://35.227.43.169:8501/
 
@@ -119,8 +119,22 @@ App link (hosted on Google Cloud): http://35.227.43.169:8501/
 |   └─ Medical_Image.json
 | 
 ├─ Validations
-    ├─pytest.py
-    ├─validation.py
+|    ├─pytest.py
+|    ├─validation.py
+|
+├─ POC
+|   ├─Data
+|   |    ├─Project Audio File 3.mp3
+|   |    ├─edited_response.txt
+|   |    ├─medline_data_cleaned.csv
+|   | 
+|   ├─OpenAI (RAG)
+|   |    ├─rags.ipynb
+|   |
+|   ├─Pinecone
+       ├─pinecone_embedding.ipynb
+
+
 ```
 ## Flow Chart
 ```mermaid

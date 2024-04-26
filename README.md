@@ -114,8 +114,7 @@ Perclias is basically AI for doctors! Leveraging conversational AI to assist pat
 |   ├─requirements.txt
 |   └─ Medical_Image.json
 | 
-| 
-├─ Validations
+|- Validations
     ├─pytest.py
     ├─validation.py
 ```

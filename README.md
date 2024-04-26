@@ -50,7 +50,7 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 
 1. Streamlit
 2. WhisperAI
-3. FastAPI
+3. GCP 
 4. OpenAI
 5. S3
 6. Gemini Vision Pro

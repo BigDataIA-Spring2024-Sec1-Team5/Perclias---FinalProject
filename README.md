@@ -5,7 +5,7 @@ Perclias is basically AI for doctors! Leveraging conversational AI to assist pat
 
 ## Project Resources
 
-Youtube Video URL: https://youtu.be/apNswfYcxi8
+Youtube Video URL: https://youtu.be/AfQJr4cUO_E
 
 App link (hosted on Google Cloud): http://35.227.43.169:8501/
 

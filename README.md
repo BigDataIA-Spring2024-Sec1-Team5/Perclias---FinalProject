@@ -22,7 +22,7 @@
 [![Langchain](https://img.shields.io/badge/Langchain-7FFFD4?style=for-the-badge&logo=langchain&logoColor=green)](https://langchain.com/)
 [![Airflow](https://img.shields.io/badge/Airflow-EB5406?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 [![Gemini](https://img.shields.io/badge/Gemini-15317E?style=for-the-badge&logo=gemini&logoColor=white)](https://gemini.com/)
-[![AWS S3](https://img.shields.io/badge/AWSS3-EAEEE9?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
+[![AWS S3](https://img.shields.io/badge/AWSS3-827B60?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
 
 
 

@@ -63,6 +63,60 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 ## Architecture Workflow
 ![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.jpg)
 
+## Project Structure
+
+```
+📦 FinalProject
+├─ ReadMe
+├─ Documentation
+|─ ETL
+│  ├─ main.py
+│  ├─ requirements.txt
+|  ├─ scraping.py
+|  ├─ snowflake_load.py
+│  └─ validation.py
+├─ Images
+│  ├─ About_Us_UI.png
+│  ├─ Final_Architecture.jpg
+│  ├─ Login_Page_UI.png
+|  ├─ Logout_UI.png
+|  ├─ Medical_Image_Analysis_UI.png
+|  ├─ Medication_Recommendation_UI.png
+|  ├─ Part-1.png
+|  ├─ Part-2.png
+|  ├─ Patient_Management_1_UI.png
+|  ├─ Patient_Management_UI.png
+│  └─ Perclias_AI_UI.png
+|   -Streamlit
+└─ Snowflake
+|   ├─ Patient_data.sql
+|
+├─ Streamlit
+|   |
+|   ├─ About_Us.json
+|   ├─ Dockerfile
+|   ├─Medication.json
+|   ├─about.py
+|   ├─app1.py
+|   ├─app2.py
+|   ├─app3.py
+|   ├─ doc.json
+|   ├─docker-compose.yml
+|   ├─head_logo.json
+|   ├─login.json
+|   ├─login.py
+|   ├─logo.jpg
+|   ├─logo.json
+|   ├─main.py
+|   ├─patient.py
+|   ├─requirements.txt
+|   └─ Medical_Image.json
+| 
+| 
+├─ Validations
+    ├─pytest.py
+    ├─validation.py
+```
 ## Flow Chart
 ```mermaid
 graph TD

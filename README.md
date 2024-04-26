@@ -61,7 +61,7 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 11. AWS
     
 ## Architecture Workflow
-![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.png)
+![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.jpg)
 
 ## Flow Chart
 ```mermaid

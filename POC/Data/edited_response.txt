@@ -1,0 +1,15 @@
+Patient: Ms. Johnson
+- Medical history: Asthma, seasonal allergies
+- Background: Family history of lung cancer and COPD
+- Previous medications: Adware inhaler, Zyrtec
+- Test results: Chest x-ray showed haziness, peak flow readings lower than usual
+- Allergies: No known allergies
+- Current medications: Adware inhaler, Zyrtec
+
+During the visit, Ms. Johnson reported a persistent cough and shortness of breath over the past week. She has a history of asthma and seasonal allergies, with a family history of lung cancer and COPD. Her recent chest x-ray showed haziness, and her peak flow readings are lower than usual. She is currently taking an adware inhaler and Zyrtec for her allergies.
+
+Possible symptoms to consider:
+- Persistent cough
+- Shortness of breath
+- Abnormal chest x-ray findings
+- Lower than usual peak flow readings

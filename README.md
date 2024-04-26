@@ -57,3 +57,10 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 ## Architecture Workflow
 ![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/FinalProject/blob/main/Images/Final_Architecture.png)
 
+## Team Information and Contribution 
+
+Name | Contribution %| Contributions |
+--- |--- | --- |
+Aditya Kanala | 33.33% |OpenAI, Pinecone & Deployment|
+Shikhar Patel | 33.33% | Streamlit, LLMs Integration & Snowflake|
+Shubh Patel | 33.33% | Scraping, Data Validation & Airflow|

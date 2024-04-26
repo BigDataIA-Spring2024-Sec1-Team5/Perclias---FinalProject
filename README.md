@@ -11,19 +11,19 @@
 
 ## Technologies Used
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![Beautiful Soup](https://img.shields.io/badge/beautiful_soup-109989?style=for-the-badge&logo=beautiful_soup&logoColor=white)](https://pypi.org/project/beautifulsoup4/)
+[![Beautiful Soup](https://img.shields.io/badge/beautiful_soup-109989?style=for-the-badge&logo=beautifulsoup4&logoColor=white)](https://pypi.org/project/beautifulsoup4/)
 [![Selenium](https://img.shields.io/badge/Selenium-39e75f?style=for-the-badge&logo=selenium&logoColor=blue)](https://www.selenium.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-fa722a?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-1c1c1c?style=for-the-badge&logo=pine&logoColor=black)](https://www.pinecone.io/?utm_term=pinecone%20database&utm_campaign=Brand+-+US/Canada&utm_source=adwords&utm_medium=ppc&hsa_acc=3111363649&hsa_cam=21023369441&hsa_grp=167470667468&hsa_ad=690982708943&hsa_src=g&hsa_tgt=kwd-1627713670725&hsa_kw=pinecone%20database&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwt-OwBhBnEiwAgwzrUqWwAX2KRT_VT2YCfNeJGp1uNdvpuljxFcbGdjYs1NQJbTj5vkk1OhoCTw8QAvD_BwE)
-[![Open_AI](https://img.shields.io/badge/OpenAI-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://openai.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-1c1c1c?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://openai.com/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-1c1c1c?style=for-the-badge&logo=snowflake&logoColor=blue)](https://snowflake.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-1c1c1c?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.com/)
 [![Langchain](https://img.shields.io/badge/Langchain-1c1c1c?style=for-the-badge&logo=langchain&logoColor=green)](https://langchain.com/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-1c1c1c?style=for-the-badge&logo=pinecone&logoColor=white)](https://pinecone.com/)
-[![Airflow](https://img.shields.io/badge/Airflow-1c1c1c?style=for-the-badge&logo=airflow&logoColor=white)](https://airflow.com/)
+[![Airflow](https://img.shields.io/badge/Airflow-1c1c1c?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 [![Gemini](https://img.shields.io/badge/Gemini-1c1c1c?style=for-the-badge&logo=gemini&logoColor=white)](https://gemini.com/)
-[![AWS_S3](https://img.shields.io/badge/AWSS3-1c1c1c?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/s3/)
+[![AWS S3](https://img.shields.io/badge/AWSS3-1c1c1c?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
+
 
 
 

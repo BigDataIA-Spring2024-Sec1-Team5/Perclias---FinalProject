@@ -9,10 +9,6 @@
 [![Generate_Q&A](https://img.shields.io/badge/Generate_Q&A-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1fSoI3f0jRflBNtc3EdGbU76-oyPbj3-A?usp=sharing)
 [![Similarity_Search](https://img.shields.io/badge/Similarity_Search-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1fSoI3f0jRflBNtc3EdGbU76-oyPbj3-A?usp=sharing)
 
-## Overview
-
-Perclias is an innovative and promising project! Leveraging conversational AI to assist patients and healthcare professionals can greatly enhance the efficiency and effectiveness of healthcare delivery. By analyzing patient-doctor conversations and utilizing data-driven approaches, Perclias can provide personalized healthcare solutions, diagnosis, and treatment recommendations tailored to individual needs. This could significantly improve patient outcomes and streamline the healthcare process.
-
 ## Technologies Used
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Beautiful Soup](https://img.shields.io/badge/beautiful_soup-109989?style=for-the-badge&logo=beautiful_soup&logoColor=white)](https://pypi.org/project/beautifulsoup4/)
@@ -21,8 +17,21 @@ Perclias is an innovative and promising project! Leveraging conversational AI to
 [![Streamlit](https://img.shields.io/badge/Streamlit-fa722a?style=for-the-badge&logo=python&logoColor=white)](https://docs.streamlit.io/)
 [![Pinecone](https://img.shields.io/badge/Pinecone-1c1c1c?style=for-the-badge&logo=pine&logoColor=black)](https://www.pinecone.io/?utm_term=pinecone%20database&utm_campaign=Brand+-+US/Canada&utm_source=adwords&utm_medium=ppc&hsa_acc=3111363649&hsa_cam=21023369441&hsa_grp=167470667468&hsa_ad=690982708943&hsa_src=g&hsa_tgt=kwd-1627713670725&hsa_kw=pinecone%20database&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwt-OwBhBnEiwAgwzrUqWwAX2KRT_VT2YCfNeJGp1uNdvpuljxFcbGdjYs1NQJbTj5vkk1OhoCTw8QAvD_BwE)
 [![Open_AI](https://img.shields.io/badge/OpenAI-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://openai.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://snowflake.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://firebase.com/)
+[![Langchain](https://img.shields.io/badge/Langchain-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://langchain.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://pinecone.com/)
+[![Airflow](https://img.shields.io/badge/Airflow-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://airflow.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://gemini.com/)
+[![AWS_S3](https://img.shields.io/badge/AWSS3-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://aws.amazon.com/s3/)
 
 
+
+
+
+## Overview
+
+Perclias is an innovative and promising project! Leveraging conversational AI to assist patients and healthcare professionals can greatly enhance the efficiency and effectiveness of healthcare delivery. By analyzing patient-doctor conversations and utilizing data-driven approaches, Perclias can provide personalized healthcare solutions, diagnosis, and treatment recommendations tailored to individual needs. This could significantly improve patient outcomes and streamline the healthcare process.
 
 ## Problem statement
 ● Inefficient Information Management: Manual capture and organization of patient-doctor conversations can be time-consuming and prone to errors, leading to inefficiencies in healthcare delivery.

@@ -24,6 +24,10 @@
 ![Gemini](https://img.shields.io/badge/Gemini-00A0E9?style=flat&logo=gemini&logoColor=white)
 ![AWS_S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-109989?style=flat&logo=pydantic&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
 
 
 

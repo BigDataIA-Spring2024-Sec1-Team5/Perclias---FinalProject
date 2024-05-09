@@ -1,4 +1,4 @@
-# Perclias
+# Perclias AI🩺
 ## Overview
 
 Perclias is basically AI for doctors! Leveraging conversational AI to assist patients and healthcare professionals can greatly enhance the efficiency and effectiveness of healthcare delivery. By analyzing patient-doctor conversations and utilizing data-driven approaches, Perclias can provide personalized healthcare solutions, diagnosis, and treatment recommendations tailored to individual needs. This could significantly improve patient outcomes and streamline the healthcare process.
